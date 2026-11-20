@@ -1,0 +1,4 @@
+2026-11-20 12:38:04,497 TCP en 127.0.0.1:5000 | Panel en http://localhost:8000
+2026-11-20 12:42:39,897 Login fallido desde 127.0.0.1
+2026-11-20 12:42:54,914 TCP en 127.0.0.1:5000 | Panel en http://localhost:8000
+2026-11-20 12:42:58,539 Login correcto desde 127.0.0.1
