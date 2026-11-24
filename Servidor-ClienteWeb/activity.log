@@ -1,0 +1,127 @@
+2026-11-20 12:38:04,497 TCP en 127.0.0.1:5000 | Panel en http://localhost:8000
+2026-11-20 12:42:39,897 Login fallido desde 127.0.0.1
+2026-11-20 12:42:54,914 TCP en 127.0.0.1:5000 | Panel en http://localhost:8000
+2026-11-20 12:42:58,539 Login correcto desde 127.0.0.1
+2026-11-20 22:13:13,014 TCP en 0.0.0.0:5000 | Panel en http://localhost:8000
+2026-11-20 22:13:30,475 [ok] Raspberry conectada: raspberry-pi-5 (TCP, 100.81.143.95:57120)
+2026-11-20 22:20:42,975 Login fallido desde 127.0.0.1
+2026-11-20 22:21:56,089 Login correcto desde 127.0.0.1
+2026-11-20 22:22:01,098 [ok] Confirmado: luz encendida al 100%
+2026-11-20 22:22:01,731 [ok] Confirmado: luz encendida al 100%
+2026-11-20 22:22:04,001 [ok] Confirmado: luz apagada
+2026-11-20 22:22:06,175 [ok] Confirmado: luz encendida al 100%
+2026-11-20 22:22:08,219 [ok] Confirmado: luz apagada
+2026-11-20 22:22:10,374 [ok] Confirmado: luz encendida al 40%
+2026-11-20 22:22:11,972 [ok] Confirmado: luz apagada
+2026-11-20 22:22:13,543 [ok] Confirmado: luz encendida al 22%
+2026-11-20 22:22:15,091 [ok] Confirmado: luz encendida al 65%
+2026-11-20 22:22:16,766 [ok] Confirmado: luz encendida al 100%
+2026-11-20 22:22:41,160 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:22:47,950 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:23:47,794 [motion] Movimiento detectado
+2026-11-20 22:23:54,728 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:23:54,729 [motion] Movimiento detectado
+2026-11-20 22:24:01,495 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:24:01,496 [motion] Movimiento detectado
+2026-11-20 22:24:08,200 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:24:08,201 [motion] Movimiento detectado
+2026-11-20 22:24:14,940 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:24:14,941 [motion] Movimiento detectado
+2026-11-20 22:24:21,702 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:24:21,702 [motion] Movimiento detectado
+2026-11-20 22:24:28,466 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:24:28,467 [motion] Movimiento detectado
+2026-11-20 22:24:35,178 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:24:35,179 [motion] Movimiento detectado
+2026-11-20 22:24:40,273 [error] No se pudo enviar el correo: Connection unexpectedly closed
+2026-11-20 22:25:16,478 [error] Raspberry desconectada
+2026-11-21 12:12:32,393 TCP en 0.0.0.0:5000 | Panel en http://localhost:8000
+2026-11-21 12:29:44,637 Login correcto desde 127.0.0.1
+2026-11-21 12:36:33,287 [ok] Raspberry conectada: raspberry-pi-5 (TCP, 100.81.143.95:47602)
+2026-11-21 12:36:40,798 [ok] Confirmado: luz encendida al 100%
+2026-11-21 12:36:48,255 [ok] Confirmado: luz apagada
+2026-11-21 12:36:56,405 [ok] Confirmado: luz encendida al 100%
+2026-11-21 12:36:57,016 [ok] Confirmado: luz apagada
+2026-11-21 12:37:18,320 [motion] Movimiento detectado
+2026-11-21 12:37:26,315 [ok] Correo enviado a juanmanu.moreno@urosario.edu.co
+2026-11-21 12:38:24,900 [ok] Confirmado: luz encendida al 100%
+2026-11-21 12:38:27,974 [ok] Confirmado: luz encendida al 28%
+2026-11-21 12:38:28,995 [ok] Confirmado: luz encendida al 38%
+2026-11-21 12:39:31,867 [ok] Confirmado: luz encendida al 38%
+2026-11-21 12:39:33,512 [ok] Confirmado: luz apagada
+2026-11-21 12:39:34,637 [ok] Confirmado: luz encendida al 38%
+2026-11-21 12:39:37,554 [ok] Confirmado: luz apagada
+2026-11-21 12:39:44,487 [error] Raspberry desconectada
+2026-11-21 12:47:37,293 [ok] Raspberry conectada: raspberry-pi-5 (TCP, 100.81.143.95:54616)
+2026-11-21 12:47:54,788 [ok] Confirmado: luz encendida al 100%
+2026-11-21 12:47:55,826 [ok] Confirmado: luz apagada
+2026-11-21 12:47:56,819 [ok] Confirmado: luz encendida al 32%
+2026-11-21 12:48:04,716 [motion] Movimiento detectado
+2026-11-21 12:48:12,263 [ok] Correo enviado a juanmanu.moreno@urosario.edu.co
+2026-11-21 12:49:25,140 [ok] Confirmado: luz apagada
+2026-11-21 12:49:28,719 [ok] Confirmado: luz encendida al 32%
+2026-11-21 12:49:30,425 [ok] Confirmado: luz encendida al 48%
+2026-11-21 12:49:32,719 [ok] Confirmado: luz apagada
+2026-11-21 12:49:34,374 [ok] Confirmado: luz encendida al 57%
+2026-11-21 12:49:36,013 [ok] Confirmado: luz encendida al 97%
+2026-11-21 12:49:49,666 [motion] Movimiento detectado
+2026-11-21 12:49:57,320 [ok] Correo enviado a juanmanu.moreno@urosario.edu.co
+2026-11-21 13:28:59,361 [ok] Confirmado: luz apagada
+2026-11-21 13:29:10,726 [motion] Movimiento detectado
+2026-11-21 13:29:18,472 [ok] Correo enviado a juanmanu.moreno@urosario.edu.co
+2026-11-21 13:29:44,211 [error] Raspberry desconectada
+2026-11-21 15:49:37,313 TCP en 0.0.0.0:5000 | Panel en http://localhost:8000
+2026-11-21 15:49:39,255 [ok] Raspberry conectada: raspberry-pi-5 (TCP, 100.81.143.95:36640)
+2026-11-21 15:53:33,671 Login correcto desde 186.86.33.208
+2026-11-21 15:53:42,523 [ok] Confirmado: luz encendida al 100%
+2026-11-21 15:53:47,952 [ok] Confirmado: luz apagada
+2026-11-21 15:53:57,361 [motion] Movimiento detectado
+2026-11-21 15:54:05,215 [ok] Correo enviado a juanmanu.moreno@urosario.edu.co
+2026-11-21 15:54:24,199 [ok] Confirmado: luz encendida al 100%
+2026-11-21 15:54:29,190 [ok] Confirmado: luz encendida al 50%
+2026-11-21 15:54:32,557 [ok] Confirmado: luz encendida al 23%
+2026-11-21 15:54:35,976 [ok] Confirmado: luz encendida al 100%
+2026-11-21 15:54:38,864 [ok] Confirmado: luz apagada
+2026-11-21 15:55:51,080 [error] Raspberry desconectada
+2026-11-23 12:39:30,558 TCP en 0.0.0.0:5000 | Panel en http://localhost:8000
+2026-11-23 12:40:20,844 TCP en 0.0.0.0:5000 | Panel en http://localhost:8000
+2026-11-23 12:41:38,714 Login correcto desde 127.0.0.1
+2026-11-23 12:45:57,815 [ok] Raspberry conectada: raspberry-pi-5 (TCP, 100.81.143.95:49494)
+2026-11-23 12:46:03,976 [ok] Confirmado: luz encendida al 100%
+2026-11-23 12:46:05,273 [ok] Confirmado: luz apagada
+2026-11-23 12:46:10,504 [ok] Confirmado: luz encendida al 100%
+2026-11-23 12:46:11,480 [ok] Confirmado: luz apagada
+2026-11-23 12:46:12,165 [ok] Confirmado: luz encendida al 100%
+2026-11-23 12:46:12,865 [ok] Confirmado: luz apagada
+2026-11-23 12:46:13,644 [ok] Confirmado: luz encendida al 100%
+2026-11-23 12:46:14,214 [ok] Confirmado: luz apagada
+2026-11-23 12:46:15,569 [ok] Confirmado: luz encendida al 26%
+2026-11-23 12:46:16,714 [ok] Confirmado: luz encendida al 67%
+2026-11-23 12:46:24,691 [motion] Movimiento detectado
+2026-11-23 12:46:26,973 [ok] Correo enviado a juanmanu.moreno@urosario.edu.co
+2026-11-23 12:49:17,974 Login correcto desde 2800:800:787:8683::17e2:f2bf
+2026-11-23 12:49:33,508 [ok] Confirmado: luz apagada
+2026-11-23 12:49:35,153 [ok] Confirmado: luz encendida al 67%
+2026-11-23 12:49:37,788 [ok] Confirmado: luz encendida al 100%
+2026-11-23 12:49:40,013 [ok] Confirmado: luz encendida al 26%
+2026-11-23 12:49:41,888 [ok] Confirmado: luz encendida al 100%
+2026-11-23 12:49:52,067 [ok] Confirmado: luz encendida al 88%
+2026-11-23 12:49:58,215 [motion] Movimiento detectado
+2026-11-23 12:50:00,041 [ok] Correo enviado a juanmanu.moreno@urosario.edu.co
+2026-11-23 12:50:04,580 [ok] Confirmado: luz encendida al 100%
+2026-11-23 12:50:17,185 [ok] Confirmado: luz apagada
+2026-11-23 12:51:18,690 [error] Raspberry desconectada
+2026-11-23 14:00:48,215 TCP en 0.0.0.0:5000 | Panel en http://localhost:8000
+2026-11-23 14:02:40,734 Login correcto desde 186.31.147.119
+2026-11-23 14:03:02,152 [ok] Raspberry conectada: raspberry-pi-5 (TCP, 100.81.143.95:40468)
+2026-11-23 14:03:06,354 [ok] Confirmado: luz encendida al 88%
+2026-11-23 14:04:11,984 [ok] Confirmado: luz apagada
+2026-11-23 14:04:14,951 [ok] Confirmado: luz encendida al 88%
+2026-11-23 14:04:18,235 [ok] Confirmado: luz encendida al 21%
+2026-11-23 14:04:19,867 [ok] Confirmado: luz encendida al 55%
+2026-11-23 14:04:21,082 [ok] Confirmado: luz encendida al 90%
+2026-11-23 14:04:22,311 [ok] Confirmado: luz encendida al 72%
+2026-11-23 14:04:23,601 [ok] Confirmado: luz encendida al 50%
+2026-11-23 14:04:33,087 [motion] Movimiento detectado
+2026-11-23 14:04:35,437 [ok] Correo enviado a jairo.tamayo@urosario.edu.co
+2026-11-23 14:18:41,217 [error] Raspberry desconectada
